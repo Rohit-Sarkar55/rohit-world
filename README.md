@@ -65,3 +65,19 @@ t=int(input("\n enter years"))
 i=float((p*r*t)/100)
 print("total :",i+p)
 
+[12/09, 22:56] Rohit Sarkar: K.
+s="rohit"
+y="sarkar"
+print(s,"\n",y)
+
+[12/09, 22:56] Rohit Sarkar: L.
+s=r"rohit\nsarkar"
+print(s)
+
+[12/09, 22:57] Rohit Sarkar: M.
+s=int("11")
+print(s)
+
+[12/09, 22:57] Rohit Sarkar: N.
+s=str(12)
+print(s)
