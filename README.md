@@ -1,4 +1,12 @@
 # rohit-world
+[12/09, 20:57] Rohit Sarkar: 1.a. 
+a='Rohit Sarkar'
+print(a)
+
+[12/09, 20:57] Rohit Sarkar: 1.b.
+a= input('what is your name:')
+print('Hello!',a)
+
 [12/09, 20:58] Rohit Sarkar: 1.c.
 a= int(input('Please enter 1st no:'))
 b= int(input('please enter 2nd no:'))
@@ -10,6 +18,7 @@ a= int(input('Please enter 1st no:'))
 b= int(input('please enter 2nd no:'))
 c = int(a/b)
 print('Divide truncating the fractional part=',c)
+
 [12/09, 20:58] Rohit Sarkar: 1.h.
 a= int(input('Please enter 1st no:'))
 b= int(input('please enter 2nd no:'))
