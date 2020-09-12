@@ -57,3 +57,10 @@ print(c)
 a=float(input("temperature in Centigrade:"))
 b=float((9*a/5)+32)
 print("temperature in Fahrenheit:",b)
+
+
+p=float(input("enter principal value"))
+r=float(input("\n rate of interest"))
+t=int(input("\n enter years"))
+i=float((p*r*t)/100)
+print("total :",i+p)
